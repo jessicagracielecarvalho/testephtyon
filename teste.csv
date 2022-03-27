@@ -1,1 +1,13 @@
-id;Data_da_chamada;Origem;Destino;Status;Fila;Duracao;Conversacao;Tag1;26/03/2022 08:46;+55(17)3632-6535;urasuporte-1;ANSWERED;S;00:07:07;00:06:19;Entrada_Suporte_Cliente2;26/03/2022 09:26;+55(17)99718-6802;urasuporte-1;NO ANSWER;S;00:01:01;00:00:00;Entrada_Suporte_Cliente3;26/03/2022 10:00;+55(17)99612-4411;urasuporte-1;NO ANSWER;S;00:03:06;00:00:00;Entrada_Suporte_Cliente4;26/03/2022 10:05;+55(17)99612-4411;urasuporte-1;ANSWERED;S;00:10:37;00:10:09;Entrada_Suporte_Cliente5;26/03/2022 10:08;+55(17)99781-3959;urasuporte-1;ANSWERED;N;00:06:26;00:06:25;Entrada_Suporte_Cliente6;26/03/2022 10:32;+55(17)3632-6535;urasuporte-1;NO ANSWER;S;00:02:21;00:00:00;Entrada_Suporte_Cliente7;26/03/2022 10:50;0(17)99647-8840;urasuporte-1;NO ANSWER;S;00:00:45;00:00:00;Entrada_Suporte_Cliente8;26/03/2022 11:00;+55(17)3212-2424;urasuporte-1;ANSWERED;S;00:05:11;00:00:00;Entrada_Suporte_Cliente9;26/03/2022 11:07;+55(17)99612-4411;principal-2;ANSWERED;S;00:05:19;00:04:12;Entrada - Suporte;;;;;;;;;;;;;;;;;;;;;;;;
+id;Data_da_chamada;Origem;Destino;Status;Fila;Duracao;Conversacao;Tag
+1;26/03/2022 08:46;+55(17)3632-6535;urasuporte-1;ANSWERED;S;00:07:07;00:06:19;Entrada_Suporte_Cliente
+2;26/03/2022 09:26;+55(17)99718-6802;urasuporte-1;NO ANSWER;S;00:01:01;00:00:00;Entrada_Suporte_Cliente
+3;26/03/2022 10:00;+55(17)99612-4411;urasuporte-1;NO ANSWER;S;00:03:06;00:00:00;Entrada_Suporte_Cliente
+4;26/03/2022 10:05;+55(17)99612-4411;urasuporte-1;ANSWERED;S;00:10:37;00:10:09;Entrada_Suporte_Cliente
+5;26/03/2022 10:08;+55(17)99781-3959;urasuporte-1;ANSWERED;N;00:06:26;00:06:25;Entrada_Suporte_Cliente
+6;26/03/2022 10:32;+55(17)3632-6535;urasuporte-1;NO ANSWER;S;00:02:21;00:00:00;Entrada_Suporte_Cliente
+7;26/03/2022 10:50;0(17)99647-8840;urasuporte-1;NO ANSWER;S;00:00:45;00:00:00;Entrada_Suporte_Cliente
+8;26/03/2022 11:00;+55(17)3212-2424;urasuporte-1;ANSWERED;S;00:05:11;00:00:00;Entrada_Suporte_Cliente
+9;26/03/2022 11:07;+55(17)99612-4411;principal-2;ANSWERED;S;00:05:19;00:04:12;Entrada - Suporte
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
